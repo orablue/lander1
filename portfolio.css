@@ -5911,4 +5911,5 @@ body > * {
   left: 0;
   min-width: 100%;
   height: 100%;
-  max-width: none; }
+  max-width: none;
+  object-fit: contain; }
