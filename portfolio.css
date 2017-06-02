@@ -4,7 +4,7 @@
 * Copyright 2011-2017 Twitter, Inc.
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 */
-@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400");
 .alert {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -5908,9 +5908,9 @@ body > * {
 
 .carousel-caption h1 {
   font-size: 5em !important;
-  font-family: Lato;
+  font-family: Norican;
   font-style: normal;
-  font-weight: 100; }
+  font-weight: 300; }
 
 .carousel img {
   min-width: auto;
