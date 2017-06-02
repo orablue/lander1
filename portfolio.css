@@ -5906,7 +5906,7 @@ body > * {
 .carousel-caption h1 {
   font-size: 4.5em !important; }
 
-.carousel .item {
+.carousel item {
   height: 500px; }
 
 .carousel img {
