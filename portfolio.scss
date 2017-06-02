@@ -56,3 +56,10 @@ $border-radius: .25rem;
 .carousel-caption h1 {
     font-size: 4.5em !important;
 }
+.carousel img {
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: auto;
+  max-width: none;
+}
