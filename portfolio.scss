@@ -39,10 +39,6 @@ $font-size-h4: 1.5 * $font-size-base;
 $font-size-h5: 1.25 * $font-size-base;
 $font-size-h6: $font-size-base;
 
-$font-weight-h1: 300;
-$font-weight-h2: 300;
-
-
 $display1-size: 6 * $font-size-base;
 $display2-size: 5.5 * $font-size-base;
 $display3-size: 4.5 * $font-size-base;
@@ -53,6 +49,10 @@ $border-radius: .25rem;
 
 @import 'bootstrap-4.0.0-alpha.6';
 @import url('https://fonts.googleapis.com/css?family=Lato:100,300,400|Open+Sans:300,400');
+
+.h1 .h2 {
+  font-weight:300;
+}
 
 .carousel-caption {
     top: 25%;
