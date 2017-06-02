@@ -5901,7 +5901,9 @@ body > * {
 
 .carousel-caption {
   top: auto;
-  bottom: 10%; }
+  bottom: 50%;
+  left: none;
+  right: 8%; }
 
 .carousel-caption h1 {
   font-size: 4.5em !important; }
