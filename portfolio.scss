@@ -60,8 +60,8 @@ $border-radius: .25rem;
  height:500px;
 }
 .carousel img {
-  min-width: auto%;
+  min-width: auto;
   height: auto;
   max-width: none;
-  object-fit: scale;
+  object-fit: contain;
 }
