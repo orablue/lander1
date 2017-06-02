@@ -5910,4 +5910,4 @@ body > * {
   min-width: auto;
   height: auto;
   max-width: 100%;
-  object-fit: scale; }
+  object-fit: contain; }
