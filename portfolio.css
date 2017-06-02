@@ -5910,7 +5910,7 @@ body > * {
   height: 500px; }
 
 .carousel img {
-  min-width: 100%;
+  min-width: auto;
   height: auto;
   max-width: none;
-  object-fit: scale; }
+  object-fit: contain; }
