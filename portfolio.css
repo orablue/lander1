@@ -5900,9 +5900,9 @@ body > * {
   color: #000000; }
 
 .carousel-caption {
-  top: auto;
-  bottom: 50%;
-  left: none;
+  top: 20%;
+  bottom: auto;
+  left: auto;
   right: 8%; }
 
 .carousel-caption h1 {
