@@ -66,6 +66,8 @@ $border-radius: .25rem;
   min-height:initial;
 }
 .carousel img {
-
+  min-width: 100%;
+  height: auto;
+  max-width: none;
   object-fit: contain;
 }
