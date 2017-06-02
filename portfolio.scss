@@ -48,7 +48,7 @@ $border-radius: .25rem;
 
 
 @import 'bootstrap-4.0.0-alpha.6';
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 
 .carousel-caption {
     top: 25%;
@@ -59,9 +59,9 @@ $border-radius: .25rem;
 
 .carousel-caption h1 {
     font-size: 5em !important;
-    font-family: Lato;
+    font-family: Norican;
     font-style: normal;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 .carousel img {
