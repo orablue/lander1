@@ -49,8 +49,10 @@ $border-radius: .25rem;
 
 @import 'bootstrap-4.0.0-alpha.6';
 .carousel-caption {
-    top: auto;
-    bottom: 10%;
+    top: 20%;
+    bottom: auto;
+    left: auto;
+    right: 8%;
 }
 
 .carousel-caption h1 {
