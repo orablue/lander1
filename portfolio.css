@@ -5906,7 +5906,8 @@ body > * {
   right: 8%; }
 
 .carousel-caption h1 {
-  font-size: 4.5em !important; }
+  font-size: 5em !important;
+  font-family: Book Antiqua; }
 
 .carousel img {
   min-width: auto;
