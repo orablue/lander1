@@ -5907,13 +5907,7 @@ body > * {
   font-size: 4.5em !important; }
 
 .carousel-inner {
-  height: auto; }
-
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  width: 100%;
-  margin: auto;
-  min-height: initial; }
+  height: 300px; }
 
 .carousel img {
   min-width: 100%;
