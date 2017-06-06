@@ -5923,13 +5923,10 @@ h1, h2 {
 
 .carousel img {
   min-width: auto;
-  height: 100%;
+  max-height: 50%;
   max-width: auto;
   object-fit: cover;
   object-position: left;
   border-style: none none solid none;
   border-width: thin;
   border-color: lightgray; }
-
-.carousel-inner {
-  overflow: hidden; }
